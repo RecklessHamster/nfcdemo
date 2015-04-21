@@ -1,0 +1,21 @@
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes.dex : \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$1.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$2.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$3.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$4.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$5.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$6.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$7.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$8.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$9.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\Util.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\BuildConfig.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\CordovaApp.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\R$attr.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\R$drawable.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\R$string.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\R$xml.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\com\example\ndefreader\R.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\classes\org\apache\cordova\api\Dummy.class \
+C:\Users\Nathan\WebstormProjects\ndefreader\platforms\android\ant-build\dexedLibs\classes-8dbaad88f58f66bc31f49b5b76ddc306.jar \
